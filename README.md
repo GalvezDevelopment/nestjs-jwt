@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+With this repo I am demonstrating how to use JWT along with Bcrypt in NestJs.
 
 ## Installation
 
